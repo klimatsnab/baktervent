@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://klimatsnab.github.io/baktervent/sitemap.xml
