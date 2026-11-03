@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://klimatsnab.github.io/baktervent/sitemap.xml
+Sitemap: https://klimatsnab-bakter.ru/sitemap.xml
